@@ -11,5 +11,20 @@ Compounding this challenge is the COVID-19 pandemic, which has imposed unprecede
 ## Our Solution 
 Wellness Companion is here to cater to their specific needs, aiming to significantly enhance their physical and mental well-being amidst the adversities posed by current times. It is a commitment to overcoming technological and usability barriers that have historically impeded the elderly's access to digital solutions. By carefully selecting and prioritizing features such as Virtual Social Spaces, Health Monitoring & Reminders, Cognitive Games and Activities as well as nutritional guidance, Wellness Companion aspires to be more than just a user-friendly platform; it seeks to be a comprehensive ecosystem that enriches the lives of its users. Our goal is to empower the elderly to lead active, connected, and healthy lives, ensuring that the application is not only accessible but also deeply supportive of their desire for independence and engagement. Through this focused approach, "Wellness Companion" directly addresses the core problems and leverages informed design choices to craft a solution that truly resonates with the elderly community.
 
+# Research 
+Recognizing the unique challenges this demographic faces, our research focused on understanding the effectiveness of existing solutions in promoting physical health, mental well-being, and social connectivity.
+
+Market Analysis: We examined various health and wellness apps, noting their successes and shortcomings. Our analysis revealed that while there is a plethora of health monitoring and social interaction apps available, there is no one stop hub for many elderly needs. This gap in the market emphasised the importance of developing an app that is not only easy to use but also encompasses a holistic approach to desinging for the elderly.
+
+User-Centric Design: Insights from our research highlighted the need for a highly intuitive interface, with accessibility features such as larger text sizes, voice commands, and simple navigation being paramount. Additionally, the importance of engaging content that encourages regular use, such as interactive exercise sessions and cognitive games, was identified as a key factor in sustaining user interest and participation.
+
+Technological Barriers: A recurring theme in our research was the elderly's varied level of technological adeptness. To address this, we prioritized the development of a user-friendly tutorial system within "Wellness Companion," guiding users through the app's features in a clear and supportive manner. This approach aims to build confidence among users, fostering greater independence and engagement with the app.
+
+Competitive Advantage: By analyzing competitors, as mentioned earlier most applications are somewwhat tailored to a speicific niche, thus we identified a distinct opportunity for Wellness Companion to stand out by offering a more integrated experience. Our app combines health monitoring, cognitive stimulation, and social features in one platform, creating a one stop hub that is currently lacking in the market.
+
+## Include surveys here 
+
+
+
 
 
