@@ -34,4 +34,10 @@ John represents a segment of the elderly population who, despite retirement, rem
 
 <img width="790" alt="John" src="https://github.com/yousefenein/SOEN357/assets/37770446/b6a56bab-a2c2-4c6b-baaf-0398b0620bba">
 
+## Persona 2 - Mary, the social butterfly 
+
+Mary is a vibrant retiree whose love for social interaction is as bright as her smile. With a background in public service and a heart full of warmth, she fills her days with community engagement and cherishes every moment spent with friends and family 
+<img width="618" alt="Mary" src="https://github.com/yousefenein/SOEN357/assets/37770446/abb06ab1-704c-4c20-b34e-aa26b7a25344">
+
+
 
