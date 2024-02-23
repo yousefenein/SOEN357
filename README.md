@@ -32,7 +32,7 @@ After a thorough analysis of our data, we have created user personas that we bel
 
 John represents a segment of the elderly population who, despite retirement, remain eager to embrace technology that supports their dynamic lifestyle. His persona encapsulates the desire for independence in health management, for staying physically active, and a passion for keeping in touch with family and friends.
 
-<img width="790" alt="John" src="https://github.com/yousefenein/SOEN357/assets/37770446/b6a56bab-a2c2-4c6b-baaf-0398b0620bba">
+<img width="790" alt="John" src="https://github.com/yousefenein/SOEN357/Assets/John">
 
 ## Persona 2 - Mary, the social butterfly 
 
