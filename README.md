@@ -38,13 +38,13 @@ John represents a segment of the elderly population who, despite retirement, rem
 ## Persona 2 - Mary, the social butterfly 
 
 Mary is a vibrant retiree whose love for social interaction is as bright as her smile. With a background in public service and a heart full of warmth, she fills her days with community engagement and cherishes every moment spent with friends and family 
-<img width="700" alt="Mary" src="https://github.com/yousefenein/SOEN357/Assets/Mary.png">
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/Mary.png">
 
 ## Persona 3 - David, the careful monitor 
 
 David is a retired engineer, his life is a testament to the power of precision and order. Health is his top priority, and he meticulously manages his chronic conditions with the help of technology. 
 
-<img width="700" alt="Mary" src="https://github.com/yousefenein/SOEN357/Assets/David.png">
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/David.png">
 
 
 
