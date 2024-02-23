@@ -18,13 +18,20 @@ Market Analysis: We examined various health and wellness apps, noting their succ
 
 User-Centric Design: Insights from our research highlighted the need for a highly intuitive interface, with accessibility features such as larger text sizes, voice commands, and simple navigation being paramount. Additionally, the importance of engaging content that encourages regular use, such as interactive exercise sessions and cognitive games, was identified as a key factor in sustaining user interest and participation.
 
-Technological Barriers: A recurring theme in our research was the elderly's varied level of technological adeptness. To address this, we prioritized the development of a user-friendly tutorial system within "Wellness Companion," guiding users through the app's features in a clear and supportive manner. This approach aims to build confidence among users, fostering greater independence and engagement with the app.
+Technological Barriers: A recurring theme in our research was the elderly's varied level of technological adeptness. To address this, we prioritized the development of a user-friendly tutorial system within Wellness Companion, guiding users through the app's features in a clear and supportive manner. This approach aims to build confidence among users, fostering greater independence and engagement with the app.
 
 Competitive Advantage: By analyzing competitors, as mentioned earlier most applications are somewwhat tailored to a speicific niche, thus we identified a distinct opportunity for Wellness Companion to stand out by offering a more integrated experience. Our app combines health monitoring, cognitive stimulation, and social features in one platform, creating a one stop hub that is currently lacking in the market.
 
 ## Include surveys here 
 
+# User Personas 
 
+After a thorough analysis of our data, we have created user personas that we beleive capture the diverse needs and aspirations of the elderly community. These narratives are rooted in real-world experiences and reflect the day-to-day lives of our personas—individuals who not only seek technological solutions for better health and connectivity but also value simplicity and joy in their interactions. 
 
+## Persona 1 - John, the active retiree 
+
+John represents a segment of the elderly population who, despite retirement, remain eager to embrace technology that supports their dynamic lifestyle. His persona encapsulates the desire for independence in health management, for staying physically active, and a passion for keeping in touch with family and friends.
+
+<img width="790" alt="John" src="https://github.com/yousefenein/SOEN357/assets/37770446/b6a56bab-a2c2-4c6b-baaf-0398b0620bba">
 
 
