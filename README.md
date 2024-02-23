@@ -32,18 +32,18 @@ After a thorough analysis of our data, we have created user personas that we bel
 
 John represents a segment of the elderly population who, despite retirement, remain eager to embrace technology that supports their dynamic lifestyle. His persona encapsulates the desire for independence in health management, for staying physically active, and a passion for keeping in touch with family and friends.
 
-![John](https://github.com/yousefenein/SOEN357/Assets/John.png)
+<img width="700" alt="John" src="https://github.com/yousefenein/SOEN357/Assets/John.png">
 
 ## Persona 2 - Mary, the social butterfly 
 
 Mary is a vibrant retiree whose love for social interaction is as bright as her smile. With a background in public service and a heart full of warmth, she fills her days with community engagement and cherishes every moment spent with friends and family 
-<img width="618" alt="Mary" src="https://github.com/yousefenein/SOEN357/Assets/Mary.png">
+<img width="700" alt="Mary" src="https://github.com/yousefenein/SOEN357/Assets/Mary.png">
 
 ## Persona 3 - David, the careful monitor 
 
 David is a retired engineer, his life is a testament to the power of precision and order. Health is his top priority, and he meticulously manages his chronic conditions with the help of technology. 
 
-<img width="618" alt="Mary" src="https://github.com/yousefenein/SOEN357/Assets/David.png">
+<img width="700" alt="Mary" src="https://github.com/yousefenein/SOEN357/Assets/David.png">
 
 
 
