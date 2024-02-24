@@ -46,5 +46,24 @@ David is a retired engineer, his life is a testament to the power of precision a
 
 <img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/David.png">
 
+# Journey maps 
+
+Drawing from the user journeys of our personas, we've garnered a deep understanding of the intricate flow of interactions within our "Wellness Companion" app. This essential UX tool allowed us to map out the scenarios in which John, Mary, and David engage with the platform, shedding light on their emotions, pain points, and moments of triumph. Through their experiences, we've pinpointed crucial discomforts, such as John's initial overwhelm with numerous exercise options, Mary's apprehension about entering new social circles, and David's need for meticulous health data tracking. By walking step-by-step with our personas, we identified key interventions to enhance their journeys. 
+
+
+## John's User journey 
+For John, we simplified the navigation and highlighted exercises suited for his age and fitness level, making his path to an active lifestyle more attainable and less daunting. 
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/JohnJourney.png">
+
+
+Mary's journey was enriched with welcoming social spaces and activities that resonate with her interests, nurturing the community bonds she values.
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/MaryJourney.png">
+
+For David, precision and reliability were paramount
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/DavidJourney.png">
+
+
+Each persona's narrative is a testament to the "Wellness Companion" app's potential to not only meet but anticipate the needs of our users. The journeys highlight our commitment to creating a responsive, empathetic, and user-centered platform, one that seamlessly becomes a part of their daily lives, contributing to their health, happiness, and sense of community.
+
 
 
