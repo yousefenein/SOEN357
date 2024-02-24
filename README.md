@@ -56,9 +56,11 @@ For John, we simplified the navigation and highlighted exercises suited for his 
 <img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/JohnJourney.png">
 
 
+## Mary's User journey
 Mary's journey was enriched with welcoming social spaces and activities that resonate with her interests, nurturing the community bonds she values.
 <img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/MaryJourney.png">
 
+## Davids User journey
 For David, precision and reliability were paramount
 <img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/DavidJourney.png">
 
