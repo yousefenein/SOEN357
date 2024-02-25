@@ -22,7 +22,32 @@ Technological Barriers: A recurring theme in our research was the elderly's vari
 
 Competitive Advantage: By analyzing competitors, as mentioned earlier most applications are somewwhat tailored to a speicific niche, thus we identified a distinct opportunity for Wellness Companion to stand out by offering a more integrated experience. Our app combines health monitoring, cognitive stimulation, and social features in one platform, creating a one stop hub that is currently lacking in the market.
 
-## Include surveys here 
+# Surveys 
+
+To gain a comprehensive understanding of our users, we conducted a survey with 37 different responses focusing on seniors' technology use, health management, and social needs. Distributed across various senior communities, our survey aimed to uncover insights that may not be completely obvious and to pinpoint existing pain points within current digital solutions.
+
+From our survey, we found a strong desire among seniors to adopt technology that could provide benefits to their daily lives. A significant 78% were open to the idea of using an app to manage their health and wellness if it was user-friendly and addressed their specific needs. Interestingly, we discovered that while technology adoption rates are increasing among the elderly, 63% were particularly interested in apps that offered community engagement features, preferring this over individual-focused health tracking tools.
+
+## Survey Breakdown:
+
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/trackHealth.png">
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/trackHealth2.png">
+82% of participants track their health metrics, with 75% doing so using some form of digital tool.
+
+
+Social Connectivity: 89% of respondents value digital tools for staying connected with friends and family, especially under social distancing measures.
+
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/physicallyActive.png">
+Exercise Habits: 67% engage in some form of physical activity daily, but only 45% use digital tools to assist with exercise.
+
+<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/learnNewHobbies.png">
+Learning and Engagement: 70% expressed a keen interest in learning new hobbies or skills through digital platforms.
+
+## Informing Our Design:
+Persona Development: The responses helped shape personas like John, who represents seniors actively seeking digital health management solutions.
+User Journey Maps: Insights into seniors' digital habits informed the creation of journey maps, ensuring the app addresses real-world scenarios and pain points.
+Feature Selection: The preference for community engagement led to the inclusion of Virtual Social Spaces, directly responding to the 89% who prioritize social connectivity.
+
 
 # User Personas 
 
@@ -66,6 +91,8 @@ For David, precision and reliability were paramount
 
 
 Each persona's narrative is a testament to the "Wellness Companion" app's potential to not only meet but anticipate the needs of our users. The journeys highlight our commitment to creating a responsive, empathetic, and user-centered platform, one that seamlessly becomes a part of their daily lives, contributing to their health, happiness, and sense of community.
+
+
 
 
 
