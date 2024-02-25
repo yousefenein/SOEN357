@@ -44,7 +44,6 @@ Mary is a vibrant retiree whose love for social interaction is as bright as her 
 
 David is a retired engineer, his life is a testament to the power of precision and order. Health is his top priority, and he meticulously manages his chronic conditions with the help of technology. 
 GG
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/David.png">
 HH
 
 # Journey maps 
