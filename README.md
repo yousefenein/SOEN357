@@ -1,4 +1,4 @@
-# Wellness companion <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> # Wellness companion 
 
 ## Introduction
 In today's rapidly aging society, the well-being of elderly individuals, both physically and mentally, has emerged as a pivotal concern. The World Health Organization reports a significant increase in life expectancy, yet the period known as healthspan—free from chronic illness or degenerative conditions—concludes much earlier. This discrepancy highlights the urgent need for innovative solutions to extend the quality and independence of life for the elderly. <br/>
