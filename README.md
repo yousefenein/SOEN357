@@ -156,7 +156,7 @@ We decided to go with 4 colors in our app which are light blue, orange, black, a
 </div>
 <div>
   <h3>Home Page</h3>
-  <img width="250" alt="Home" src="https://yousefenein.github.io/WellnessCompanion/Assets/Home.png">
+  
 </div>
 <div>
   <h3>Profile</h3>
