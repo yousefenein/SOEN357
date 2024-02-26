@@ -97,7 +97,7 @@ Before implementing the designs of our app, we have created sketches which requi
 <img width="700" alt="Sketch" src="https://yousefenein.github.io/SOEN357/Assets/sketch.jpg">
 
 ## Wireframes
-<img width="700" alt="WFLogin" src="https://yousefenein.github.io/SOEN357/Assets/WF_LogIn.png">
+<img width="250" alt="WFLogin" src="https://yousefenein.github.io/SOEN357/Assets/WF_LogIn.png">
 <img width="700" alt="WFSignUp" src="https://yousefenein.github.io/SOEN357/Assets/WF_SignUp.png">
 <img width="700" alt="WFHome" src="https://yousefenein.github.io/SOEN357/Assets/WF_Home.png">
 <img width="700" alt="WFProfile" src="https://yousefenein.github.io/SOEN357/Assets/WF_Profile.png">
