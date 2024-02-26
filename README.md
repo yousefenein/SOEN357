@@ -97,10 +97,12 @@ Before implementing the designs of our app, we have created sketches which requi
 <img width="700" alt="Sketch" src="https://yousefenein.github.io/SOEN357/Assets/sketch.jpg">
 
 ## Wireframes
-<img width="250" alt="WFLogin" src="https://yousefenein.github.io/SOEN357/Assets/WF_LogIn.png">
-<img width="250" alt="WFSignUp" src="https://yousefenein.github.io/SOEN357/Assets/WF_SignUp.png">
-<img width="250" alt="WFHome" src="https://yousefenein.github.io/SOEN357/Assets/WF_Home.png">
-<img width="250" alt="WFProfile" src="https://yousefenein.github.io/SOEN357/Assets/WF_Profile.png">
+<div>
+  <img width="250" alt="WFLogin" src="https://yousefenein.github.io/SOEN357/Assets/WF_LogIn.png">
+  <img width="250" alt="WFSignUp" src="https://yousefenein.github.io/SOEN357/Assets/WF_SignUp.png">
+  <img width="250" alt="WFHome" src="https://yousefenein.github.io/SOEN357/Assets/WF_Home.png">
+  <img width="250" alt="WFProfile" src="https://yousefenein.github.io/SOEN357/Assets/WF_Profile.png">
+</div>
 <img width="250" alt="WFActivity" src="https://yousefenein.github.io/SOEN357/Assets/WF_Activity.png">
 <img width="250" alt="WFJoinLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_JoinLiveSession.png">
 <img width="250" alt="WFLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_LiveSession.png">
