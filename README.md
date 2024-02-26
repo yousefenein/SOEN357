@@ -162,7 +162,7 @@ We decided to go with 4 colors in our app which are light blue, orange, black, a
 </div>
 <div>
   <h3>Home Page</h3>
-  <img width="250" alt="HomePage" src="https://yousefenein.github.io/WellnessCompanion/Assets/Home.png">
+  <img width="250" alt="HomePage" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Home.png">
 </div>
 <div>
   <h3>Profile</h3>
@@ -194,7 +194,7 @@ We decided to go with 4 colors in our app which are light blue, orange, black, a
   <img width="250" alt="Mind" src="https://yousefenein.github.io/WellnessCompanion/Assets/Mind.png">
 </div>
 <div>
-  <h3>Connect with Friends and Add more Friends</h3>
+  <h3>Connect with Friends and Add More Friends</h3>
   <img width="250" alt="Connect" src="https://yousefenein.github.io/WellnessCompanion/Assets/Connect.png">
   <img width="250" alt="Friend" src="https://yousefenein.github.io/WellnessCompanion/Assets/Friend.png">
   <img width="250" alt="Call" src="https://yousefenein.github.io/WellnessCompanion/Assets/Call.png">
