@@ -5,13 +5,12 @@ plugins:
 navigation:
   - title: "Sketches"
     url: "#Sketches"
-  - title: "Introduction"
-    url: "#Introduction"
-  - title: "Solution"
-    url: "#Solution"
-  - title: "Research"
-    url: "#Research"
   - title: "Personas"
     url: "#Personas"
-
+  - title: "Research"
+    url: "#Research"
+  - title: "Solution" 
+    url: "#Solution"
+  - title: "Introduction"
+    url: "#Introduction
 
