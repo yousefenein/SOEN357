@@ -1,4 +1,4 @@
-# Wellness companion
+# Wellness companion 
 
 ## Introduction
 In today's rapidly aging society, the well-being of elderly individuals, both physically and mentally, has emerged as a pivotal concern. The World Health Organization reports a significant increase in life expectancy, yet the period known as healthspan—free from chronic illness or degenerative conditions—concludes much earlier. This discrepancy highlights the urgent need for innovative solutions to extend the quality and independence of life for the elderly. <br/>
@@ -134,6 +134,67 @@ Now, with the use of the sketches above, we have created the wireframes that giv
   <img width="250" alt="WFAddFriends" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_AddFriends.png">
   <img width="250" alt="WFCall" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Call.png">
   <img width="250" alt="WFMessage" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Message.png">
+</div>
+
+## Design
+<h2>Typography</h2>
+We used Montserrat as the main format of our app since it is very minimalistic and suitable for the elderly. There are different font sizes used over the app based on the purposes (headers, labels, etc.). In addition, for the logo of our app, we used the Modern Antiqua font since it looks very aesthetic. 
+<br>
+<img width="250" alt="Typography" src="https://yousefenein.github.io/WellnessCompanion/Assets/typography.jpg">
+<img width="200" alt="LogoTypography" src="https://yousefenein.github.io/WellnessCompanion/Assets/logo_typography.png">
+
+
+<h2>Color Palette</h2>
+We decided to go with 4 colors in our app which are light blue, orange, black, and white. The reason for this is because these colors are easy-to-read, calm, and simple which suits very well for the elderly. 
+<img width="500" alt="Colors" src="https://yousefenein.github.io/WellnessCompanion/Assets/Colors.png">
+
+<h2>Final Designs</h2>
+<h3>Log In / Sign Up</h3>
+<div>
+  <img width="250" alt="Login" src="https://yousefenein.github.io/WellnessCompanion/Assets/LogIn.png">
+  <img width="250" alt="SignUp" src="https://yousefenein.github.io/WellnessCompanion/Assets/SignUp.png">
+</div>
+<div>
+  <h3>Home Page</h3>
+  <img width="250" alt="Home" src="https://yousefenein.github.io/WellnessCompanion/Assets/Home.png">
+</div>
+<div>
+  <h3>Profile</h3>
+  <img width="250" alt="Profile" src="https://yousefenein.github.io/WellnessCompanion/Assets/Profile.png">
+  <img width="250" alt="ProfileEdit" src="https://yousefenein.github.io/WellnessCompanion/Assets/ProfileEdit.png">
+</div>
+<div>
+  <h3>Activity</h3>
+  <img width="250" alt="Activity" src="https://yousefenein.github.io/WellnessCompanion/Assets/Activity.png">
+</div>
+<div>
+  <h3>Live Session</h3>
+   <img width="250" alt="JoinLiveSession" src="https://yousefenein.github.io/WellnessCompanion/Assets/JoinLiveSession.png">
+  <img width="250" alt="LiveSession" src="https://yousefenein.github.io/WellnessCompanion/Assets/LiveSession.png">
+</div>
+<div>
+  <h3>Exercises</h3>
+  <img width="250" alt="ExerciseTypes" src="https://yousefenein.github.io/WellnessCompanion/Assets/ExerciseTypes.png">
+  <img width="250" alt="Exercises" src="https://yousefenein.github.io/WellnessCompanion/Assets/Exercises.png">
+</div>
+<div>
+  <h3>Games</h3>
+  <img width="250" alt="Games" src="https://yousefenein.github.io/WellnessCompanion/Assets/Games.png">
+  <img width="250" alt="Game" src="https://yousefenein.github.io/WellnessCompanion/Assets/Game.png">
+</div>
+<div>
+  <h3>Mindfulness</h3>
+  <img width="250" alt="Mindfulness" src="https://yousefenein.github.io/WellnessCompanion/Assets/Mindfulness.png">
+  <img width="250" alt="Mind" src="https://yousefenein.github.io/WellnessCompanion/Assets/Mind.png">
+</div>
+<div>
+  <h3>Connect with Friends and Add more Friends</h3>
+  <img width="250" alt="Connect" src="https://yousefenein.github.io/WellnessCompanion/Assets/Connect.png">
+  <img width="250" alt="Friend" src="https://yousefenein.github.io/WellnessCompanion/Assets/Friend.png">
+  <img width="250" alt="Call" src="https://yousefenein.github.io/WellnessCompanion/Assets/Call.png">
+  <img width="250" alt="Message" src="https://yousefenein.github.io/WellnessCompanion/Assets/Message.png">
+  <img width="250" alt="AddFriends" src="https://yousefenein.github.io/WellnessCompanion/Assets/AddFriends.png">
+  <img width="250" alt="AddFriend" src="https://yousefenein.github.io/WellnessCompanion/Assets/AddFriend.png">
 </div>
 
 
