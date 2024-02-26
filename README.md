@@ -93,10 +93,13 @@ For David, precision and reliability were paramount<br/>
 Each persona's narrative is a testament to the "Wellness Companion" app's potential to not only meet but anticipate the needs of our users. The journeys highlight our commitment to creating a responsive, empathetic, and user-centered platform, one that seamlessly becomes a part of their daily lives, contributing to their health, happiness, and sense of community.
 
 ## Sketches
-Before implementing the designs of our app, we have created sketches which requires very little effort and are done by hand. It is just to illustrate the idea of our app as a starting point.
+Before implementing the designs of our app, we have created sketches that require very little effort and are done by hand. It is just to illustrate the idea of our app as a starting point.
+<br> 
 <img width="700" alt="Sketch" src="https://yousefenein.github.io/SOEN357/Assets/sketch.jpg">
 
 ## Wireframes
+<br>
+Now, with the use of the sketches above, we have created the wireframes that give a better illustration of our app. It gives us the outline of the structure and layout of the page.
 <div>
   <img width="250" alt="WFLogin" src="https://yousefenein.github.io/SOEN357/Assets/WF_LogIn.png">
   <img width="250" alt="WFSignUp" src="https://yousefenein.github.io/SOEN357/Assets/WF_SignUp.png">
@@ -132,6 +135,8 @@ Before implementing the designs of our app, we have created sketches which requi
   <img width="250" alt="WFCall" src="https://yousefenein.github.io/SOEN357/Assets/WF_Call.png">
   <img width="250" alt="WFMessage" src="https://yousefenein.github.io/SOEN357/Assets/WF_Message.png">
 </div>
+
+
 
 
 
