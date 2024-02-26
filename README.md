@@ -92,6 +92,29 @@ For David, precision and reliability were paramount<br/>
 
 Each persona's narrative is a testament to the "Wellness Companion" app's potential to not only meet but anticipate the needs of our users. The journeys highlight our commitment to creating a responsive, empathetic, and user-centered platform, one that seamlessly becomes a part of their daily lives, contributing to their health, happiness, and sense of community.
 
+## Sketches
+Before implementing the designs of our app, we have created sketches which requires very little effort and are done by hand. It is just to illustrate the idea of our app as a starting point.
+<img width="700" alt="Sketch" src="https://yousefenein.github.io/SOEN357/Assets/sketch.jpg">
+
+## Wireframes
+<img width="700" alt="WFLogin" src="https://yousefenein.github.io/SOEN357/Assets/WF_LogIn.png">
+<img width="700" alt="WFSignUp" src="https://yousefenein.github.io/SOEN357/Assets/WF_SignUp.png">
+<img width="700" alt="WFHome" src="https://yousefenein.github.io/SOEN357/Assets/WF_Home.png">
+<img width="700" alt="WFProfile" src="https://yousefenein.github.io/SOEN357/Assets/WF_Profile.png">
+<img width="700" alt="WFActivity" src="https://yousefenein.github.io/SOEN357/Assets/WF_Activity.png">
+<img width="700" alt="WFJoinLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_JoinLiveSession.png">
+<img width="700" alt="WFLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_LiveSession.png">
+<img width="700" alt="WFExerciseTypes" src="https://yousefenein.github.io/SOEN357/Assets/WF_ExerciseTypes.png">
+<img width="700" alt="WFExercises" src="https://yousefenein.github.io/SOEN357/Assets/WF_Exercises.png">
+<img width="700" alt="WFGames" src="https://yousefenein.github.io/SOEN357/Assets/WF_Games.png">
+<img width="700" alt="WFGame" src="https://yousefenein.github.io/SOEN357/Assets/WF_Game.png">
+<img width="700" alt="WFMindfulness" src="https://yousefenein.github.io/SOEN357/Assets/WF_Mindfulness.png">
+<img width="700" alt="WFMind" src="https://yousefenein.github.io/SOEN357/Assets/WF_Mind.png">
+<img width="700" alt="WFConnect" src="https://yousefenein.github.io/SOEN357/Assets/WF_Connect.png">
+<img width="700" alt="WFAddFriend" src="https://yousefenein.github.io/SOEN357/Assets/WF_AddFriend.png">
+<img width="700" alt="WFAddFriends" src="https://yousefenein.github.io/SOEN357/Assets/WF_AddFriends.png">
+<img width="700" alt="WFCall" src="https://yousefenein.github.io/SOEN357/Assets/WF_Call.png">
+<img width="700" alt="WFMessage" src="https://yousefenein.github.io/SOEN357/Assets/WF_Message.png">
 
 
 
