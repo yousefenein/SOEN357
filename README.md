@@ -30,17 +30,17 @@ From our survey, we found a strong desire among seniors to adopt technology that
 
 ## Survey Breakdown:
 
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/trackHealth.png">
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/trackHealth2.png"> <br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/trackHealth.png">
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/trackHealth2.png"> <br/>
 82% of participants track their health metrics, with 75% doing so using some form of digital tool. <br/>
 
 
 **Social Connectivity:** 89% of respondents value digital tools for staying connected with friends and family, especially under social distancing measures. <br/>
 
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/physicallyActive.png"> <br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/physicallyActive.png"> <br/>
 **Exercise Habits:** 67% engage in some form of physical activity daily, but only 45% use digital tools to assist with exercise. <br/>
 
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/learnNewHobbies.png"> <br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/learnNewHobbies.png"> <br/>
 **Learning and Engagement:** 70% expressed a keen interest in learning new hobbies or skills through digital platforms. <br/>
 
 ## Informing Our Design:
@@ -57,18 +57,18 @@ After a thorough analysis of our data, we have created user personas that we bel
 
 John represents a segment of the elderly population who, despite retirement, remain eager to embrace technology that supports their dynamic lifestyle. His persona encapsulates the desire for independence in health management, for staying physically active, and a passion for keeping in touch with family and friends.<br/>
 
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/John.png"><br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/John.png"><br/>
 
 
 ## Persona 2 - Mary, the social butterfly 
 
 Mary is a vibrant retiree whose love for social interaction is as bright as her smile. With a background in public service and a heart full of warmth, she fills her days with community engagement and cherishes every moment spent with friends and family <br/>
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/Mary.png"><br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/Mary.png"><br/>
 
 ## Persona 3 - David, the careful monitor 
 
 David is a retired engineer, his life is a testament to the power of precision and order. Health is his top priority, and he meticulously manages his chronic conditions with the help of technology. <br/>
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/David.png"><br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/David.png"><br/>
 
 
 # Journey maps 
@@ -78,16 +78,16 @@ Drawing from the user journeys of our personas, we've garnered a deep understand
 
 ## John's User journey 
 For John, we simplified the navigation and highlighted exercises suited for his age and fitness level, making his path to an active lifestyle more attainable and less daunting. <br/>
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/JohnJourney.png"><br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/JohnJourney.png"><br/>
 
 
 ## Mary's User journey
 Mary's journey was enriched with welcoming social spaces and activities that resonate with her interests, nurturing the community bonds she values.<br/>
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/MaryJourney.png"><br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/MaryJourney.png"><br/>
 
 ## Davids User journey
 For David, precision and reliability were paramount<br/>
-<img width="700" alt="Mary" src="https://yousefenein.github.io/SOEN357/Assets/DavidJourney.png"><br/>
+<img width="700" alt="Mary" src="https://yousefenein.github.io/WellnessCompanion/Assets/DavidJourney.png"><br/>
 
 
 Each persona's narrative is a testament to the "Wellness Companion" app's potential to not only meet but anticipate the needs of our users. The journeys highlight our commitment to creating a responsive, empathetic, and user-centered platform, one that seamlessly becomes a part of their daily lives, contributing to their health, happiness, and sense of community.
@@ -95,45 +95,45 @@ Each persona's narrative is a testament to the "Wellness Companion" app's potent
 ## Sketches
 Before implementing the designs of our app, we have created sketches that require very little effort and are done by hand. It is just to illustrate the idea of our app as a starting point.
 <br> 
-<img width="700" alt="Sketch" src="https://yousefenein.github.io/SOEN357/Assets/sketch.jpg">
+<img width="700" alt="Sketch" src="https://yousefenein.github.io/WellnessCompanion/Assets/sketch.jpg">
 
 ## Wireframes
 <br>
 Now, with the use of the sketches above, we have created the wireframes that give a better illustration of our app. It gives us the outline of the structure and layout of the page.
 <div>
-  <img width="250" alt="WFLogin" src="https://yousefenein.github.io/SOEN357/Assets/WF_LogIn.png">
-  <img width="250" alt="WFSignUp" src="https://yousefenein.github.io/SOEN357/Assets/WF_SignUp.png">
-  <img width="250" alt="WFHome" src="https://yousefenein.github.io/SOEN357/Assets/WF_Home.png">
+  <img width="250" alt="WFLogin" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_LogIn.png">
+  <img width="250" alt="WFSignUp" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_SignUp.png">
+  <img width="250" alt="WFHome" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Home.png">
 </div>
 <hr>
 <div>
-  <img width="250" alt="WFProfile" src="https://yousefenein.github.io/SOEN357/Assets/WF_Profile.png">
-  <img width="250" alt="WFActivity" src="https://yousefenein.github.io/SOEN357/Assets/WF_Activity.png">
-  <img width="250" alt="WFJoinLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_JoinLiveSession.png">
+  <img width="250" alt="WFProfile" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Profile.png">
+  <img width="250" alt="WFActivity" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Activity.png">
+  <img width="250" alt="WFJoinLiveSession" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_JoinLiveSession.png">
 </div>
 <hr>
 <div>
-  <img width="250" alt="WFLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_LiveSession.png">
-  <img width="250" alt="WFExerciseTypes" src="https://yousefenein.github.io/SOEN357/Assets/WF_ExerciseTypes.png">
-  <img width="250" alt="WFExercises" src="https://yousefenein.github.io/SOEN357/Assets/WF_Exercises.png">
+  <img width="250" alt="WFLiveSession" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_LiveSession.png">
+  <img width="250" alt="WFExerciseTypes" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_ExerciseTypes.png">
+  <img width="250" alt="WFExercises" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Exercises.png">
 </div>
 <hr>
 <div>
-  <img width="250" alt="WFGames" src="https://yousefenein.github.io/SOEN357/Assets/WF_Games.png">
-  <img width="250" alt="WFGame" src="https://yousefenein.github.io/SOEN357/Assets/WF_Game.png">
-  <img width="250" alt="WFMindfulness" src="https://yousefenein.github.io/SOEN357/Assets/WF_Mindfulness.png">
+  <img width="250" alt="WFGames" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Games.png">
+  <img width="250" alt="WFGame" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Game.png">
+  <img width="250" alt="WFMindfulness" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Mindfulness.png">
 </div>
 <hr>
 <div>
-  <img width="250" alt="WFMind" src="https://yousefenein.github.io/SOEN357/Assets/WF_Mind.png">
-  <img width="250" alt="WFConnect" src="https://yousefenein.github.io/SOEN357/Assets/WF_Connect.png">
-  <img width="250" alt="WFAddFriend" src="https://yousefenein.github.io/SOEN357/Assets/WF_AddFriend.png">
+  <img width="250" alt="WFMind" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Mind.png">
+  <img width="250" alt="WFConnect" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Connect.png">
+  <img width="250" alt="WFAddFriend" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_AddFriend.png">
 </div>
 <hr>
 <div>
-  <img width="250" alt="WFAddFriends" src="https://yousefenein.github.io/SOEN357/Assets/WF_AddFriends.png">
-  <img width="250" alt="WFCall" src="https://yousefenein.github.io/SOEN357/Assets/WF_Call.png">
-  <img width="250" alt="WFMessage" src="https://yousefenein.github.io/SOEN357/Assets/WF_Message.png">
+  <img width="250" alt="WFAddFriends" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_AddFriends.png">
+  <img width="250" alt="WFCall" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Call.png">
+  <img width="250" alt="WFMessage" src="https://yousefenein.github.io/WellnessCompanion/Assets/WF_Message.png">
 </div>
 
 
