@@ -102,26 +102,31 @@ Before implementing the designs of our app, we have created sketches which requi
   <img width="250" alt="WFSignUp" src="https://yousefenein.github.io/SOEN357/Assets/WF_SignUp.png">
   <img width="250" alt="WFHome" src="https://yousefenein.github.io/SOEN357/Assets/WF_Home.png">
 </div>
+<hr>
 <div>
   <img width="250" alt="WFProfile" src="https://yousefenein.github.io/SOEN357/Assets/WF_Profile.png">
   <img width="250" alt="WFActivity" src="https://yousefenein.github.io/SOEN357/Assets/WF_Activity.png">
   <img width="250" alt="WFJoinLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_JoinLiveSession.png">
 </div>
+<hr>
 <div>
   <img width="250" alt="WFLiveSession" src="https://yousefenein.github.io/SOEN357/Assets/WF_LiveSession.png">
   <img width="250" alt="WFExerciseTypes" src="https://yousefenein.github.io/SOEN357/Assets/WF_ExerciseTypes.png">
   <img width="250" alt="WFExercises" src="https://yousefenein.github.io/SOEN357/Assets/WF_Exercises.png">
 </div>
+<hr>
 <div>
   <img width="250" alt="WFGames" src="https://yousefenein.github.io/SOEN357/Assets/WF_Games.png">
   <img width="250" alt="WFGame" src="https://yousefenein.github.io/SOEN357/Assets/WF_Game.png">
   <img width="250" alt="WFMindfulness" src="https://yousefenein.github.io/SOEN357/Assets/WF_Mindfulness.png">
 </div>
+<hr>
 <div>
   <img width="250" alt="WFMind" src="https://yousefenein.github.io/SOEN357/Assets/WF_Mind.png">
   <img width="250" alt="WFConnect" src="https://yousefenein.github.io/SOEN357/Assets/WF_Connect.png">
   <img width="250" alt="WFAddFriend" src="https://yousefenein.github.io/SOEN357/Assets/WF_AddFriend.png">
 </div>
+<hr>
 <div>
   <img width="250" alt="WFAddFriends" src="https://yousefenein.github.io/SOEN357/Assets/WF_AddFriends.png">
   <img width="250" alt="WFCall" src="https://yousefenein.github.io/SOEN357/Assets/WF_Call.png">
