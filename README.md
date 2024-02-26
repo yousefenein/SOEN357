@@ -195,7 +195,6 @@ We decided to go with 4 colors in our app which are light blue, orange, black, a
   <img width="250" alt="Message" src="https://yousefenein.github.io/WellnessCompanion/Assets/Message.png">
   <img width="250" alt="AddFriends" src="https://yousefenein.github.io/WellnessCompanion/Assets/AddFriends.png">
   <img width="250" alt="AddFriend" src="https://yousefenein.github.io/WellnessCompanion/Assets/AddFriend.png">
-  <img width="250" alt="Profile" src="https://yousefenein.github.io/WellnessCompanion/Assets/Profile.png">
 </div>
 
 
