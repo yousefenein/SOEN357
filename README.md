@@ -140,13 +140,13 @@ Now, with the use of the sketches above, we have created the wireframes that giv
 <h2>Typography</h2>
 We used Montserrat as the main format of our app since it is very minimalistic and suitable for the elderly. There are different font sizes used over the app based on the purposes (headers, labels, etc.). In addition, for the logo of our app, we used the Modern Antiqua font since it looks very aesthetic. 
 <br>
-<img width="150" alt="Typography" src="https://yousefenein.github.io/WellnessCompanion/Assets/typography.png">
-<img width="100" alt="LogoTypography" src="https://yousefenein.github.io/WellnessCompanion/Assets/logo_typography.png">
+<img width="250" alt="Typography" src="https://yousefenein.github.io/WellnessCompanion/Assets/typography.jpg">
+<img width="200" alt="LogoTypography" src="https://yousefenein.github.io/WellnessCompanion/Assets/logo_typography.png">
 
 
 <h2>Color Palette</h2>
 We decided to go with 4 colors in our app which are light blue, orange, black, and white. The reason for this is because these colors are easy-to-read, calm, and simple which suits very well for the elderly. 
-<img width="250" alt="Colors" src="https://yousefenein.github.io/WellnessCompanion/Assets/Colors.png">
+<img width="300" alt="Colors" src="https://yousefenein.github.io/WellnessCompanion/Assets/Colors.png">
 
 
 
