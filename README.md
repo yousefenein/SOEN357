@@ -1,5 +1,6 @@
 # Wellness companion 
 
+<a name="Introduction"></a>
 ## Introduction
 In today's rapidly aging society, the well-being of elderly individuals, both physically and mentally, has emerged as a pivotal concern. The World Health Organization reports a significant increase in life expectancy, yet the period known as healthspan—free from chronic illness or degenerative conditions—concludes much earlier. This discrepancy highlights the urgent need for innovative solutions to extend the quality and independence of life for the elderly. <br/>
 
@@ -8,9 +9,12 @@ The introduction of pervasive technologies offers a beacon of hope, with the pot
 
 Compounding this challenge is the COVID-19 pandemic, which has imposed unprecedented restrictions on social interactions, disproportionately affecting the elderly who are at heightened risk. Social distancing and isolation measures, while necessary, have severed traditional means of connection and support, amplifying feelings of loneliness and disconnection.<br/>
 
+<a name="Solution"></a>
 ## Our Solution 
 Wellness Companion is here to cater to their specific needs, aiming to significantly enhance their physical and mental well-being amidst the adversities posed by current times. It is a commitment to overcoming technological and usability barriers that have historically impeded the elderly's access to digital solutions. By carefully selecting and prioritizing features such as Virtual Social Spaces, Health Monitoring & Reminders, Cognitive Games and Activities as well as nutritional guidance, Wellness Companion aspires to be more than just a user-friendly platform; it seeks to be a comprehensive ecosystem that enriches the lives of its users. Our goal is to empower the elderly to lead active, connected, and healthy lives, ensuring that the application is not only accessible but also deeply supportive of their desire for independence and engagement. Through this focused approach, "Wellness Companion" directly addresses the core problems and leverages informed design choices to craft a solution that truly resonates with the elderly community. <br/>
 
+
+<a name="Research"></a>
 # Research 
 Recognizing the unique challenges this demographic faces, our research focused on understanding the effectiveness of existing solutions in promoting physical health, mental well-being, and social connectivity. <br/>
 
@@ -49,6 +53,7 @@ From our survey, we found a strong desire among seniors to adopt technology that
 **Feature Selection:** The preference for community engagement led to the inclusion of Virtual Social Spaces, directly responding to the 89% who prioritize social connectivity. <br/>
 
 
+<a name="Personas"></a>
 # User Personas 
 
 After a thorough analysis of our data, we have created user personas that we beleive capture the diverse needs and aspirations of the elderly community. These narratives are rooted in real-world experiences and reflect the day-to-day lives of our personas—individuals who not only seek technological solutions for better health and connectivity but also value simplicity and joy in their interactions. <br/>
@@ -92,6 +97,7 @@ For David, precision and reliability were paramount<br/>
 
 Each persona's narrative is a testament to the "Wellness Companion" app's potential to not only meet but anticipate the needs of our users. The journeys highlight our commitment to creating a responsive, empathetic, and user-centered platform, one that seamlessly becomes a part of their daily lives, contributing to their health, happiness, and sense of community.
 
+<a name="Sketches"></a>
 ## Sketches
 Before implementing the designs of our app, we have created sketches that require very little effort and are done by hand. It is just to illustrate the idea of our app as a starting point.
 <br> 
